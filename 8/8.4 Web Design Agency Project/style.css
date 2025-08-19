@@ -32,6 +32,10 @@ h1 {
   float: left;
 }
 
+.creative{
+  color: midnightblue;
+}
+
 footer {
   text-align: right;
   color: midnightblue;
